@@ -1,5 +1,5 @@
 ![Header](./image/github-header-image.png)
-## Hi I'm Henna <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+##
 I'm Henna Maria a Frontend Developer. I Spend most of my time coding outstanding projects.
 <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47xpx7chb0qaqc70kaojbjxd54pmmg4yr8phl57a9x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250px" height="165px" style="margin-top: 1rem;" alt="hennamaria19" />
 <p align="left">
