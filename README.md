@@ -31,7 +31,7 @@ I'm Henna Maria a Frontend Developer. I Spend most of my time coding outstanding
  </p>
 
  #### Bizness
-- :paperclip:  <a href="https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf" style="text-decoration: none;color:#00b9b9">My Resume/CV</a>
+- :paperclip:  <a href="https://github.com/Hennamaria07/Hennamaria07/blob/master/resume/resume.png" style="text-decoration: none;color:#00b9b9">My Resume/CV</a>
 - :email: <a href="#" style="text-decoration: none;color:#00b9b9">hennamaria2001@gmail.com</a>
 
 #### Profile Visits 
