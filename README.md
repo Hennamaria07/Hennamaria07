@@ -36,7 +36,7 @@ I'm Henna Maria a Frontend Developer. I Spend most of my time coding outstanding
 
 ### Coding Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hennamaria07&layout=compact&theme=highcontrast)
 
 ### Github Stats
 
