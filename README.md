@@ -3,7 +3,7 @@
 I'm Henna Maria a Frontend Developer. I Spend most of my time coding outstanding projects.
 <p align="left">
 :mailbox: Reach me out!
-<br>
+
 <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47xpx7chb0qaqc70kaojbjxd54pmmg4yr8phl57a9x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250px" height="165px" style="margin-top: 2rem;" alt="hennamaria19" />
 <a href="https://twitter.com/hennamaria19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hennamaria19" height="20" width="30" style="margin-right: 0.5rem;padding-top: 0.2rem;" /></a>
 <a href="https://linkedin.com/in/henna maria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henna maria" height="20" width="30" style="margin-right: 0.5rem;;"/></a>
