@@ -29,10 +29,6 @@ I'm Henna Maria a Frontend Developer. I Spend most of my time coding outstanding
 - :paperclip:  <a href="https://github.com/Hennamaria07/Hennamaria07/blob/master/resume/resume.png" style="text-decoration: none;color:#00b9b9">My Resume/CV</a>
 - :email: <a href="#" style="text-decoration: none;color:#00b9b9">hennamaria2001@gmail.com</a>
 
-### My Contributions
-  
-  ![snake gif](https://github.com/Hennamaria07/Hennamaria07/blob/output/github-contribution-grid-snake.gif)
-
 ### Coding Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hennamaria07&layout=compact&theme=merko)
