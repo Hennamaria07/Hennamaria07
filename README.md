@@ -21,18 +21,21 @@ I'm Henna Maria a Frontend Developer. I Spend most of my time coding outstanding
 
 ### Languages and Tools
 
-<p align="left" style="display: flex; width: 260px; justify-content: space-between;">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" style="margin-right: 1.2rem;"/> </a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26" height="30" style="margin-right: 1.2rem;"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="30" style="margin-right: 1.2rem;"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin-right: 1.2rem;"/></a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="25" style="margin-right: 1.2rem;"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" height="30" style="margin-right: 1.2rem;"/> </a>
-</a> <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/nrgyaltdicpt/2OlBbaO7oEFSmTVpreHlkb/66a1b6eb1a10b372557ddbdd0e7099c7/ologo_square_colour_green_bg.png" alt="Overleaf" width="26" height="26"/></a>
+<p align="left">
+<img style="margin-right: 1rem;" src="https://skillicons.dev/icons?i=git,python,javascript,html,css,bootstrap,latex" />
  </p>
 
  #### Bizness
 - :paperclip:  <a href="https://github.com/Hennamaria07/Hennamaria07/blob/master/resume/resume.png" style="text-decoration: none;color:#00b9b9">My Resume/CV</a>
 - :email: <a href="#" style="text-decoration: none;color:#00b9b9">hennamaria2001@gmail.com</a>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ### Coding Stats
 
