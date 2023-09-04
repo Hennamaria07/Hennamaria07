@@ -1,8 +1,8 @@
 ![Header](./image/github-header-image.png)
 ## About Me
 I'm Henna Maria, a recent Computer Science Engineering graduate 🎓 with a passion for Full Stack Development 🚀. Currently honing my skills in the MERN stack at [Entri Elevate](https://www.entri.app/elevate). 
-#
-🌟 My journey in the world of software development is just beginning, and I'm excited to embark on new coding adventures. Feel free to explore my repositories, and let's connect! Let's code and build amazing things together. 🚀 <br>
+<br>
+ 🌟 My journey in the world of software development is just beginning, and I'm excited to embark on new coding adventures. Feel free to explore my repositories, and let's connect! Let's code and build amazing things together. <br> <br>
 :mailbox: Reach me out!
 <p align="left">
 <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47xpx7chb0qaqc70kaojbjxd54pmmg4yr8phl57a9x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250px" height="165px" style="margin-top: 2rem;" alt="hennamaria19" />
@@ -27,7 +27,6 @@ I'm Henna Maria, a recent Computer Science Engineering graduate 🎓 with a pass
 - Version control wizard with Git, ensuring code collaboration is seamless and error-free.
 - Styling extraordinaire with Bootstrap, because aesthetics matter.
 - On a mission to make the web more user-friendly, one line of code at a time.
-- 
 ### Languages and Tools
 
 <p align="left">
