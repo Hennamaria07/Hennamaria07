@@ -13,12 +13,11 @@ I'm Henna Maria, a recent Computer Science Engineering graduate 🎓 with a pass
 
 ### What I Currently Do
 
-- 🔭 I’m currently pursuring MERN Stack
+- 🌟 My journey in the world of software development is just beginning, and I'm excited to embark on new coding adventures. Feel free to explore my repositories, and let's connect! Let's code and build amazing things together.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: hennamaria2001@gmail.com.
 - 💬 Ask me about Frontend, Git.
 - ⚡ Fun fact: I hold a Bachelor's degree in Computer Science Engineering, a testament to my dedication and academic prowess.
-- 🌟 My journey in the world of software development is just beginning, and I'm excited to embark on new coding adventures. Feel free to explore my repositories, and let's connect! Let's code and build amazing things together.
 
 #### 💻 Here's what I bring to the coding table:
 
