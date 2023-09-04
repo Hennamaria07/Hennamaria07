@@ -20,7 +20,7 @@ I'm Henna Maria, a recent Computer Science Engineering graduate 🎓 with a pass
 - 💬 Ask me about Frontend, Git.
 - ⚡ Fun fact: I hold a Bachelor's degree in Computer Science Engineering, a testament to my dedication and academic prowess.
 
-#### 💻 Here's what I bring to the coding table:
+#### 💻 Here's what I bring to the coding table :
 
 - Proficient in HTML, CSS, and JavaScript (JS) for crafting interactive and dynamic web applications.
 - LaTeX enthusiast, turning complex documents into beautifully formatted masterpieces.
