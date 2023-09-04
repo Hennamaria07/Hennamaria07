@@ -1,6 +1,6 @@
 ![Header](./image/github-header-image.png)
 ##
-I'm Henna Maria a Frontend Developer. I Spend most of my time coding outstanding projects.
+I'm Henna Maria, a recent Computer Science Engineering graduate 🎓 with a passion for Full Stack Development 🚀. Currently honing my skills in the MERN stack at [Entri Elevate](https://www.entri.app/elevate).
 
 :mailbox: Reach me out!
 <p align="left">
