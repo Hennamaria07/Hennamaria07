@@ -18,7 +18,16 @@ I'm Henna Maria, a recent Computer Science Engineering graduate 🎓 with a pass
 - 📫 How to reach me: hennamaria2001@gmail.com.
 - 💬 Ask me about Frontend, Git.
 - ⚡ Fun fact: I hold a Bachelor's degree in Computer Science Engineering, a testament to my dedication and academic prowess.
+- 🌟 My journey in the world of software development is just beginning, and I'm excited to embark on new coding adventures. Feel free to explore my repositories, and let's connect! Let's code and build amazing things together.
 
+#### 💻 Here's what I bring to the coding table:
+
+- Proficient in HTML, CSS, and JavaScript (JS) for crafting interactive and dynamic web applications.
+- LaTeX enthusiast, turning complex documents into beautifully formatted masterpieces.
+- Version control wizard with Git, ensuring code collaboration is seamless and error-free.
+- Styling extraordinaire with Bootstrap, because aesthetics matter.
+- On a mission to make the web more user-friendly, one line of code at a time.
+- 
 ### Languages and Tools
 
 <p align="left">
