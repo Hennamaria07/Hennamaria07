@@ -30,7 +30,7 @@ I'm Henna Maria, a recent Computer Science Engineering graduate 🎓 with a pass
 ### Languages and Tools
 
 <p align="left">
-<img style="margin-right: 1rem;" src="https://skillicons.dev/icons?i=git,python,javascript,html,css,bootstrap,latex" />
+<img style="margin-right: 1rem;" src="https://skillicons.dev/icons?i=git,python,javascript,html,css,bootstrap,latex,typescript" />
  </p>
 
  #### Bizness
