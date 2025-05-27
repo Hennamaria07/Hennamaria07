@@ -22,28 +22,54 @@
 <tr>
 <td width="50%" valign="top">
 
-## 🎯 **Current Mission**
 
-```typescript
-const developer = {
-  name: "Henna Maria",
-  role: "Full Stack Developer",
-  stack: ["MongoDB", "Express.js", "React", "Node.js"],
-  focus: "Building tomorrow's web today",
-  motto: "Code with purpose, design with passion"
-};
+## 🎯 **THE ARCHITECT'S BLUEPRINT**
+
+```javascript
+class HennaMaria extends FullStackDeveloper {
+    constructor() {
+        super();
+        this.name = "Henna Maria";
+        this.title = "Digital Solutions Architect";
+        this.location = "Building the Future 🌍";
+        this.languages = ["JavaScript", "TypeScript", "Python"];
+        this.currentFocus = "Next-Gen Web Applications";
+        this.mission = "Transforming Ideas into Digital Reality";
+    }
+    
+    getSkillSet() {
+        return {
+            frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+            backend: ["Node.js", "Express.js", "MongoDB", "Python"],
+            architecture: ["RESTful APIs"],
+            cloud: ["Docker"],
+            design: ["Figma", "UI/UX", "Design Systems"]
+        };
+    }
+    
+    getCurrentProject() {
+        return "Building scalable MERN applications that push boundaries";
+    }
+}
+
+const henna = new HennaMaria();
+console.log(henna.mission); // "Transforming Ideas into Digital Reality"
 ```
 
-🔭 **Currently Building:** Next-gen web applications with MERN stack  
-💡 **Exploring:** Advanced React patterns & microservices  
-🎨 **Designing:** User experiences that inspire  
-📚 **Learning:** Cloud architecture & DevOps practices  
-
 </td>
-<td width="50%" valign="top">
+<td width="45%">
 
 <div align="center">
-<img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47xpx7chb0qaqc70kaojbjxd54pmmg4yr8phl57a9x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px" alt="Coding Animation" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350px" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(0,245,255,0.3);" />
+
+### 🌟 **CURRENT STATUS**
+
+<img src="https://img.shields.io/badge/🧠_Thinking-Critical_Problem_Solving-00F5FF?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/💻_Coding-Advanced_MERN_Stack-00F5FF?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🎨_Designing-User_Experiences-00F5FF?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🚀_Deploying-Scalable_Solutions-00F5FF?style=for-the-badge&labelColor=000000" />
+
 </div>
 
 </td>
@@ -51,7 +77,6 @@ const developer = {
 </table>
 
 ---
-
 <div align="center">
 
 ## 🌐 **Connect With Me Across The Digital Realm**
