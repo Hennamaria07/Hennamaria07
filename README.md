@@ -20,7 +20,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 
 ## 🎯 **THE ARCHITECT'S BLUEPRINT**
